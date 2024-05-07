@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_null_aware_operators
+
 import 'package:equatable/equatable.dart';
 import 'package:headline_news/data/models/article_model.dart';
 import 'package:headline_news/domain/entities/articles.dart';
